@@ -1,13 +1,3 @@
-### Hi there 👋
-
-<p align="center">
-<img src="https://www.codewars.com/users/bartigorfs/badges/large">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartigorfs"/>
-</p>
-
 <table width="320px">
     <tbody>
         <tr valign="top">
