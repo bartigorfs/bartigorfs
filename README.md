@@ -17,5 +17,5 @@
 <table align="center">
 <tr>
 <th>Miscellaneous</th></tr>
-<td><img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,mongodb,mysql,prisma,jest,reactivex,redux,mobx,webpack,vite&perline=13&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,mongodb,mysql,prisma,jest,reactivex,redux,webpack,vite&perline=13&theme=light" /></td>
 </table>
