@@ -2,14 +2,14 @@
 <tr>
 <th>Programming languages</th>
 </tr>
-<td><img src="https://skillicons.dev/icons?i=python,js,ts,rust,go,cs&perline=13&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=python,js,ts,php,rust,go,cs&perline=13&theme=light" /></td>
 </table>
 
 <table align="center">
 <tr>
 <th>Frameworks</th>
 </tr>
-<td><img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,nest,express,fastapi&perline=13&theme=light"/></td>
+<td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,nest,actix,express,fastapi&perline=13&theme=light"/></td>
   <!-- ,flask,django -->
 </table>
 
@@ -17,5 +17,5 @@
 <table align="center">
 <tr>
 <th>Miscellaneous</th></tr>
-<td><img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,mongodb,mysql,prisma,jest,reactivex,redux,webpack,vite&perline=13&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,kubernetes,kafka,linux,postgres,redis,mongodb,mysql,prisma,jest,reactivex,redux&perline=13&theme=light" /></td>
 </table>
