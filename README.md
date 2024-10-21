@@ -2,7 +2,7 @@
 <tr>
 <th>Programming languages</th>
 </tr>
-<td><img src="https://skillicons.dev/icons?i=python,js,ts,php,rust,go,cs&perline=13&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=python,js,ts,php,rust,go&perline=13&theme=light" /></td>
 </table>
 
 <table align="center">
