@@ -9,7 +9,7 @@
 <tr>
 <th>Frameworks</th>
 </tr>
-<td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,nest,actix,express,fastapi&perline=13&theme=light"/></td>
+<td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,nest,actix,bun,nodejs,fastapi&perline=13&theme=light"/></td>
   <!-- ,flask,django -->
 </table>
 
@@ -17,5 +17,5 @@
 <table align="center">
 <tr>
 <th>Miscellaneous</th></tr>
-<td><img src="https://skillicons.dev/icons?i=git,docker,kubernetes,kafka,linux,postgres,redis,mongodb,mysql,prisma,jest,reactivex,redux&perline=13&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,kubernetes,kafka,aws,postgres,redis,mongodb,prisma,jest,reactivex,redux,tailwind&perline=13&theme=light" /></td>
 </table>
